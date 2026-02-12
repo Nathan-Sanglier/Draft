@@ -27,10 +27,10 @@ const App = () => {
     setRejected(true);
     // Array of rejection messages
     const rejectionTexts = [
-      "Are you sure?",
-      "Maybe try again?",
-      "Think again!",
-      "Loser :(",
+      "T'es sûre Néné ?",
+      "Euhh réessaye pour voir ?",
+      "Réflechis bien Néné !",
+      "Nullos :(",
     ];
     // Randomly select a rejection message
     let randomIndex;
