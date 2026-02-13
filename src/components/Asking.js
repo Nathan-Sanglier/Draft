@@ -19,7 +19,7 @@ const Asking = ({ gif, altText, handleAccept, handleReject, noButtonText }) => (
     <div>
       {/* Button for accepting the proposal */}
       <button className="App-button" onClick={handleAccept}>
-        Yes
+        Oui
       </button>
       {/* Button for rejecting the proposal with dynamic text */}
       <button className="App-button" onClick={handleReject}>
